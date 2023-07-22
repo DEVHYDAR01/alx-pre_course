@@ -1,1 +1,1 @@
-Tis the alx git repo
+This is the alx git repo
